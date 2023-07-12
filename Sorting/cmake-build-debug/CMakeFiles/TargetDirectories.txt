@@ -1,3 +1,0 @@
-C:/Users/Ayman/CLionProjects/Algorithms_part1/Algirithms_Part1/Sorting/cmake-build-debug/CMakeFiles/Sorting.dir
-C:/Users/Ayman/CLionProjects/Algorithms_part1/Algirithms_Part1/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ayman/CLionProjects/Algorithms_part1/Algirithms_Part1/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
