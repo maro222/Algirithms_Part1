@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(BinarySearch)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(BinarySearch main.cpp BinarySearch.cpp BinarySearch.h "Homework1_medium_challenges/34__Find_First_and_Last_Position_of_Element_in_Sorted_Array .cpp" "Homework1_medium_challenges/436__Find_Right_Interval .cpp" "Homework1_medium_challenges/611__Valid_Triangle_Number .cpp" "Homework2_medium_challenges/441__Arranging_Coins .cpp" "Homework2_medium_challenges/1283__Find_The_Smallest_Divisor_Given_Threshold .cpp" "Homework2_medium_challenges/1482__Minimum_Number_of_Days_to_Make_m_Bouquets .cpp" "Homework2_medium_challenges/1482__Minimum_Number_of_Days_to_Make_m_Bouquets .cpp" "Homework2_medium_challenges/475__Heaters .cpp" Homework3_Hard_challenges/1060__Missing_element_in_Sorted_Array.cpp)
